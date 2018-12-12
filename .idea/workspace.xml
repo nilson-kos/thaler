@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bef5d0e8-5373-493f-bf6b-c50054567b7c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -18,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2230">
-              <caret line="220" column="45" selection-start-line="220" selection-start-column="45" selection-end-line="220" selection-end-column="45" />
+            <state relative-caret-position="217">
+              <caret line="516" column="96" selection-start-line="516" selection-start-column="96" selection-end-line="516" selection-end-column="96" />
             </state>
           </provider>
         </entry>
@@ -27,8 +26,8 @@
       <file leaf-file-name="main.min.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="5794" column="22" selection-start-line="5794" selection-start-column="22" selection-end-line="5794" selection-end-column="22" />
+            <state relative-caret-position="234">
+              <caret line="6269" column="45" selection-start-line="6269" selection-start-column="45" selection-end-line="6269" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -47,8 +46,21 @@
       <find>svg</find>
       <find>use</find>
       <find>use case</find>
-      <find>s_case__ico</find>
       <find>Enter real</find>
+      <find>s_case__ico</find>
+      <find>Access to US$2.8 trillion</find>
+      <find>s_strategy__note</find>
+      <find>s_how</find>
+      <find>Bonus during the 1st</find>
+      <find>s_how__li</find>
+      <find>thaler</find>
+      <find>fund</find>
+      <find>0000</find>
+      <find>Benefits for investors</find>
+      <find>disc{</find>
+      <find>Each quarter dividents are</find>
+      <find>jpg</find>
+      <find>strategies_bg</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -57,9 +69,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/img/ico/002-budget.svg" />
         <option value="$PROJECT_DIR$/img/ico/003-shape.svg" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.min.css" />
       </list>
     </option>
@@ -144,12 +156,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544644382112</updated>
-      <workItem from="1544644383462" duration="4574000" />
+      <workItem from="1544644383462" duration="7634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4574000" />
+    <option name="totallyTimeSpent" value="7634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -162,7 +174,7 @@
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32965517" />
       <window_info anchor="right" id="Remote Host" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -216,15 +228,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2230">
-          <caret line="220" column="45" selection-start-line="220" selection-start-column="45" selection-end-line="220" selection-end-column="45" />
+        <state relative-caret-position="217">
+          <caret line="516" column="96" selection-start-line="516" selection-start-column="96" selection-end-line="516" selection-end-column="96" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="5794" column="22" selection-start-line="5794" selection-start-column="22" selection-end-line="5794" selection-end-column="22" />
+        <state relative-caret-position="234">
+          <caret line="6269" column="45" selection-start-line="6269" selection-start-column="45" selection-end-line="6269" selection-end-column="45" />
         </state>
       </provider>
     </entry>

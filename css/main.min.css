@@ -5805,6 +5805,15 @@ a, button {
 .s_how .s_title {
     margin-bottom: 34px;
 }
+.s_how__disc {
+    font-size: 15px;
+    line-height: 1;
+    letter-spacing: .025em;
+    color: #999;
+    font-weight: 300;
+    max-width: 320px;
+    margin-top: 15px;
+}
 .s_how__list {
     font-size: 17px;
     line-height: 1.47;
@@ -6206,6 +6215,15 @@ a, button {
     height: 100%;
     position: relative;
 }
+.s_benefits__disc{
+    font-size: 15px;
+    line-height: 1;
+    letter-spacing: .025em;
+    color: #999;
+    font-weight: 300;
+    max-width: 320px;
+    margin-top: 30px;
+}
 .s_benefits__block.left {
     -webkit-transform: translateX(-50%);
     -ms-transform: translateX(-50%);
@@ -6249,7 +6267,7 @@ a, button {
 }
 .s_strategies {
     padding: 100px 0;
-    background: #fff url(../img/strategies_bg.jpg) center 100% no-repeat;
+    background: #fff url(../img/strategies_bg.png) center 100% no-repeat;
 }
 .s_strategies__subtitle {
     font-size: 17px;
