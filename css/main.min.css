@@ -5792,6 +5792,7 @@ a, button {
     margin-top: -.3em;
 }
 .s_problems h3 {
+    padding-top: 22px;
     color: #fa5b00;
     font-size: 20px;
     font-weight: bold;
